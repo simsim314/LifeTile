@@ -1,0 +1,9 @@
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\bin\Release\LifeTile.exe.config
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\bin\Release\LifeTile.exe
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\bin\Release\LifeTile.pdb
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\obj\Release\LifeTile.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\obj\Release\LifeTile.Form1.resources
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\obj\Release\LifeTile.Properties.Resources.resources
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\obj\Release\LifeTile.csproj.GenerateResource.Cache
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\obj\Release\LifeTile.exe
+C:\Users\Owner\Documents\GitHub\caffe-master\LifeTile\LifeTile\obj\Release\LifeTile.pdb
